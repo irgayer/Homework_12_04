@@ -1,0 +1,17 @@
+C:\Users\вава\source\repos\Homework_12_04\bin\Debug\Homework_12_04.exe.config
+C:\Users\вава\source\repos\Homework_12_04\bin\Debug\Homework_12_04.exe
+C:\Users\вава\source\repos\Homework_12_04\bin\Debug\Homework_12_04.pdb
+C:\Users\вава\source\repos\Homework_12_04\bin\Debug\EntityFramework.dll
+C:\Users\вава\source\repos\Homework_12_04\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\вава\source\repos\Homework_12_04\bin\Debug\EntityFramework.xml
+C:\Users\вава\source\repos\Homework_12_04\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\вава\source\repos\Homework_12_04\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\вава\source\repos\Homework_12_04\obj\Debug\Homework_12_04.csprojAssemblyReference.cache
+C:\Users\вава\source\repos\Homework_12_04\obj\Debug\Homework_12_04.csproj.CoreCompileInputs.cache
+C:\Users\вава\source\repos\Homework_12_04\obj\Debug\Homework_12_04.csproj.CopyComplete
+C:\Users\вава\source\repos\Homework_12_04\obj\Debug\Homework_12_04.exe
+C:\Users\вава\source\repos\Homework_12_04\obj\Debug\Homework_12_04.pdb
+C:\Users\вава\source\repos\Homework_12_04\obj\Debug\Homework_12_04.Migrations.InitialCreate.resources
+C:\Users\вава\source\repos\Homework_12_04\obj\Debug\Homework_12_04.csproj.GenerateResource.cache
+C:\Users\вава\source\repos\Homework_12_04\obj\Debug\Homework_12_04.Migrations.InitialMigration.resources
+C:\Users\вава\source\repos\Homework_12_04\obj\Debug\Homework_12_04.Migrations.FinalMigration.resources
